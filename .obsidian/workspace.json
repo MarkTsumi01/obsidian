@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "ce9c77cb1982a94c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b2aeda44555a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db886ef52d7a215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summaries/Docker/Docker Image.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc4de0648d80dee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aee234eb5890704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1619ca61354add",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5247bb27e6b62726",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "228a85df2abebdf3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b7948e04f93879f",
+    "type": "split",
+    "children": [
+      {
+        "id": "842594a93254cc1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f4a75dccbddcd66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Summaries/Docker/Docker Image.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61e47a594f6c4d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Summaries/Docker/Docker Image.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "263e6a39ef2d9193",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee93e8d8a8f744ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Summaries/Docker/Docker Image.md"
+              }
+            }
+          },
+          {
+            "id": "74a070b5446b4cda",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9db886ef52d7a215",
+  "lastOpenFiles": [
+    "Pasted image 20240229100429.png",
+    "Summaries/Docker/Container and VM.md",
+    "Summaries/Docker/Docker Image.md",
+    "Pasted image 20240229095549.png",
+    "Pasted image 20240229095930.png",
+    "Summaries/Docker/What are Containers.md",
+    "Pasted image 20240229095326.png",
+    "Tasks/Intern.md",
+    "Summaries/Docker/What is Docker.md",
+    "Summaries/Docker/Why using Docker.md",
+    "Pasted image 20240229094755.png",
+    "Pasted image 20240229094618.png",
+    "Pasted image 20240229093954.png",
+    "Untitled.md",
+    "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
+    "Summaries/Git (version control)",
+    "Untitled",
+    "Summaries/Back-end",
+    "Summaries/Front-end",
+    "Summaries/Back-end/NestJS",
+    "Summaries/Cyber-security/Course 3/Module 1",
+    "Summaries/Cyber-security/Course 3",
+    "Tasks/Personal.md",
+    "Summaries/Cyber-security",
+    "Tasks",
+    "Summaries",
+    "2024-02-29.md"
+  ]
+}
