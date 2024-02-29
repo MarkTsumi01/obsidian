@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9db886ef52d7a215",
+  "active": "0f1619ca61354add",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "New shortcut.lnk",
     "Pasted image 20240229100429.png",
     "Summaries/Docker/Container and VM.md",
     "Summaries/Docker/Docker Image.md",
@@ -181,7 +183,6 @@
     "Tasks/Personal.md",
     "Summaries/Cyber-security",
     "Tasks",
-    "Summaries",
     "2024-02-29.md"
   ]
 }
