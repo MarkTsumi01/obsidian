@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Intern.md",
+                "file": "Summaries/Docker/Introduction/Docker Image.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f939c889c8dbe9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summaries/Docker/Introduction/What are Containers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "165baef50d8efc43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summaries/Docker/Introduction/Container and VM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Intern.md",
+                "file": "Summaries/Docker/Introduction/Container and VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Intern.md",
+                "file": "Summaries/Docker/Introduction/Container and VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Intern.md"
+                "file": "Summaries/Docker/Introduction/Container and VM.md"
               }
             }
           },
@@ -154,35 +179,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9db886ef52d7a215",
+  "active": "165baef50d8efc43",
   "lastOpenFiles": [
-    "Tasks/Personal.md",
+    "Image/Pasted image 20240229100429.png",
+    "Image/Pasted image 20240229095930.png",
+    "Image/Pasted image 20240229095549.png",
+    "Image/Pasted image 20240229095326.png",
+    "Image/Pasted image 20240229094755.png",
+    "Image/Pasted image 20240229094618.png",
+    "Image/Pasted image 20240229093954.png",
+    "Summaries/Docker/Introduction/Why using Docker.md",
+    "Image",
+    "Summaries/Docker/Introduction/What is Docker.md",
+    "Summaries/Docker/Introduction/What are Containers.md",
+    "Summaries/Docker/Introduction/Docker Image.md",
+    "Summaries/Docker/Introduction/Container and VM.md",
+    "Summaries/Docker/Introduction",
     "Tasks/Intern.md",
     "Tasks/Development.md",
+    "Tasks/Personal.md",
     "Untitled.md",
     "Tasks/Untitled",
-    "Summaries/Docker/Docker Image.md",
     "New Text Document.txt",
     "New shortcut.lnk",
-    "Pasted image 20240229100429.png",
-    "Summaries/Docker/Container and VM.md",
-    "Pasted image 20240229095549.png",
-    "Pasted image 20240229095930.png",
-    "Summaries/Docker/What are Containers.md",
-    "Pasted image 20240229095326.png",
-    "Summaries/Docker/What is Docker.md",
-    "Summaries/Docker/Why using Docker.md",
-    "Pasted image 20240229094755.png",
-    "Pasted image 20240229094618.png",
-    "Pasted image 20240229093954.png",
     "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "Summaries/Git (version control)",
-    "Untitled",
     "Summaries/Back-end",
     "Summaries/Front-end",
     "Summaries/Back-end/NestJS",
     "Summaries/Cyber-security/Course 3/Module 1",
-    "Summaries/Cyber-security/Course 3",
     "2024-02-29.md"
   ]
 }
