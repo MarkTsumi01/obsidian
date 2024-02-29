@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Docker/Docker Image.md",
+                "file": "Tasks/Intern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Docker/Docker Image.md",
+                "file": "Tasks/Intern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Docker/Docker Image.md",
+                "file": "Tasks/Intern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Docker/Docker Image.md"
+                "file": "Tasks/Intern.md"
               }
             }
           },
@@ -154,24 +154,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f1619ca61354add",
+  "active": "9db886ef52d7a215",
   "lastOpenFiles": [
+    "Tasks/Personal.md",
+    "Tasks/Intern.md",
+    "Tasks/Development.md",
+    "Untitled.md",
+    "Tasks/Untitled",
+    "Summaries/Docker/Docker Image.md",
     "New Text Document.txt",
     "New shortcut.lnk",
     "Pasted image 20240229100429.png",
     "Summaries/Docker/Container and VM.md",
-    "Summaries/Docker/Docker Image.md",
     "Pasted image 20240229095549.png",
     "Pasted image 20240229095930.png",
     "Summaries/Docker/What are Containers.md",
     "Pasted image 20240229095326.png",
-    "Tasks/Intern.md",
     "Summaries/Docker/What is Docker.md",
     "Summaries/Docker/Why using Docker.md",
     "Pasted image 20240229094755.png",
     "Pasted image 20240229094618.png",
     "Pasted image 20240229093954.png",
-    "Untitled.md",
     "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "Summaries/Git (version control)",
     "Untitled",
@@ -180,9 +183,6 @@
     "Summaries/Back-end/NestJS",
     "Summaries/Cyber-security/Course 3/Module 1",
     "Summaries/Cyber-security/Course 3",
-    "Tasks/Personal.md",
-    "Summaries/Cyber-security",
-    "Tasks",
     "2024-02-29.md"
   ]
 }
