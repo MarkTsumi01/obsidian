@@ -1,4 +1,0 @@
-- [ ] Mini Project 
-- [ ] Deploy project
-- [ ] Fix bug and continue 
-- [ ] Presentation Intern
