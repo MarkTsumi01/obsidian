@@ -7,6 +7,7 @@
 - [ ] Learn About Erp Software
 
 
+
 ### Black-dit
 
 - [ ] Learn Smart contract.
@@ -21,6 +22,6 @@
 - [ ] เคลียเรื่องทหาร
 - [ ] สมัครงาน proAlpha 
 - [ ] ทำ Super resume
-
+    *install linux, shopee favorite, script presentation
 
 
