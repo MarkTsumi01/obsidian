@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Routine.md",
+                "file": "Tasks/All Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Routine.md",
+                "file": "Tasks/All Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Routine.md",
+                "file": "Tasks/All Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Routine.md"
+                "file": "Tasks/All Tasks.md"
               }
             }
           },
@@ -156,9 +156,10 @@
   },
   "active": "553bf9d322717f80",
   "lastOpenFiles": [
-    "Tasks/All Tasks.md",
     "Tasks/Routine.md",
+    "Tasks/All Tasks.md",
     "Buy Lists/All Buy Lists.md",
+    "2024-03-05.md",
     "Buy Lists",
     "Tasks/Personal.md",
     "Tasks/Intern.md",
