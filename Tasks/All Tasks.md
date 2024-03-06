@@ -21,7 +21,7 @@
 - [ ] ตรวจไทรอยด์
 - [ ] เคลียเรื่องทหาร
 - [ ] สมัครงาน proAlpha 
-- [ ] ทำ Super resume
+- [x] ทำ Super resume ✅ 2024-03-06
 - [ ] *install linux, shopee favorite, script presentation
     
 
