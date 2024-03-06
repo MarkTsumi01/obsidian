@@ -24,7 +24,7 @@
 - [ ] สมัครงาน proAlpha (ยื่น resume)
 - [ ] สมัครบัตรเครดิต
 - [x] ทำ Super resume ✅ 2024-03-06
-- [ ] *install linux, shopee favorite, script presentation
+- [x] *install linux, shopee favorite, script presentation ✅ 2024-03-06
     
 
 

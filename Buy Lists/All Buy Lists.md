@@ -33,20 +33,20 @@
 
 | Name             | Detail                | Price |
 | ---------------- | --------------------- | ----- |
-| Monitor          | 144hz fullhd (curved) |       |
-| VGA              | DDR5 ( Nvidia , Amd)  |       |
-| Speaker          |                       |       |
-| Microphone       |                       |       |
-| Keyboard & mouse | Apple                 |       |
-| Webcam           |                       |       |
+| Monitor          | 144hz fullhd (curved) | 3900  |
+| VGA              | DDR5 ( Nvidia , Amd)  | 5000  |
+| Speaker          |                       | 1500  |
+| Microphone       |                       | 1000  |
+| Keyboard & mouse | Apple                 | 7000  |
+| Webcam           |                       | 2400  |
 
 
 ### Clothes
 
 | Name  | Detail | Price |
 | ----- | ------ | ----- |
-| Polo  | GQ     |       |
-| Shirt | GQ     |       |
+| Polo  | GQ     | 400   |
+| Shirt | GQ     | 1000  |
 | Short | GQ     |       |
 | Pant  | GQ     |       |
 |       |        |       |
