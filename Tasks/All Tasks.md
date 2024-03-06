@@ -22,6 +22,7 @@
 - [ ] เคลียเรื่องทหาร
 - [ ] สมัครงาน proAlpha 
 - [ ] ทำ Super resume
-    *install linux, shopee favorite, script presentation
+- [ ] *install linux, shopee favorite, script presentation
+    
 
 
