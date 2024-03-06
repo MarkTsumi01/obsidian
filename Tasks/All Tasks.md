@@ -14,6 +14,7 @@
 - [ ] Like button using Smart contract to give author token.
 - [ ] Do chunk.
 - [ ] Fix Authprovider.
+- [ ] Deployment
 
 ### Personal
 
@@ -21,6 +22,7 @@
 - [ ] ตรวจไทรอยด์
 - [ ] เคลียเรื่องทหาร
 - [ ] สมัครงาน proAlpha (ยื่น resume)
+- [ ] สมัครบัตรเครดิต
 - [x] ทำ Super resume ✅ 2024-03-06
 - [ ] *install linux, shopee favorite, script presentation
     
