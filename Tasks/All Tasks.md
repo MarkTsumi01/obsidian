@@ -20,7 +20,7 @@
 - [ ] จัดฟัน
 - [ ] ตรวจไทรอยด์
 - [ ] เคลียเรื่องทหาร
-- [ ] สมัครงาน proAlpha 
+- [ ] สมัครงาน proAlpha (ยื่น resume)
 - [x] ทำ Super resume ✅ 2024-03-06
 - [ ] *install linux, shopee favorite, script presentation
     
