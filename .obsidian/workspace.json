@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/OOP/Principle.md",
+                "file": "Summaries/ERP SOFTWARE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/OOP/Principle.md",
+                "file": "Summaries/ERP SOFTWARE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/OOP/Principle.md",
+                "file": "Summaries/ERP SOFTWARE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/OOP/Principle.md"
+                "file": "Summaries/ERP SOFTWARE.md"
               }
             }
           },
@@ -154,9 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f1619ca61354add",
+  "active": "b189800da96d9d48",
   "lastOpenFiles": [
+    "Summaries/GIT/What is GIT.md",
+    "Summaries/ERP SOFTWARE.md",
     "Summaries/OOP/Principle.md",
+    "Summaries/GIT",
     "Summaries/OOP",
     "Untitled",
     "Summaries/NextJS",
@@ -185,7 +188,6 @@
     "New Text Document.txt",
     "New shortcut.lnk",
     "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
-    "Summaries/Git (version control)",
     "2024-02-29.md"
   ]
 }
