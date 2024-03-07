@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c1381c48c560eff",
+        "id": "c67b35f5a504f3bc",
         "type": "tabs",
         "children": [
           {
-            "id": "553bf9d322717f80",
+            "id": "b189800da96d9d48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/All Tasks.md",
+                "file": "Summaries/OOP/Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/All Tasks.md",
+                "file": "Summaries/OOP/Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/All Tasks.md",
+                "file": "Summaries/OOP/Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/All Tasks.md"
+                "file": "Summaries/OOP/Principle.md"
               }
             }
           },
@@ -154,10 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553bf9d322717f80",
+  "active": "0f1619ca61354add",
   "lastOpenFiles": [
-    "Buy Lists/All Buy Lists.md",
+    "Summaries/OOP/Principle.md",
+    "Summaries/OOP",
+    "Untitled",
+    "Summaries/NextJS",
     "Tasks/All Tasks.md",
+    "Buy Lists/All Buy Lists.md",
     "Tasks/Routine.md",
     "Buy Lists",
     "Tasks/Personal.md",
@@ -177,15 +181,11 @@
     "Image",
     "Summaries/Docker/Introduction/What is Docker.md",
     "Summaries/Docker/Introduction",
-    "Untitled.md",
     "Tasks/Untitled",
     "New Text Document.txt",
     "New shortcut.lnk",
     "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "Summaries/Git (version control)",
-    "Summaries/Back-end",
-    "Summaries/Front-end",
-    "Summaries/Back-end/NestJS",
     "2024-02-29.md"
   ]
 }
