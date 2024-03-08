@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Docker/Introduction/What are Containers.md",
+                "file": "Buy Lists/All Buy Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Docker/Introduction/What are Containers.md",
+                "file": "Buy Lists/All Buy Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Docker/Introduction/What are Containers.md",
+                "file": "Buy Lists/All Buy Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Docker/Introduction/What are Containers.md"
+                "file": "Buy Lists/All Buy Lists.md"
               }
             }
           },
@@ -156,6 +156,9 @@
   },
   "active": "b189800da96d9d48",
   "lastOpenFiles": [
+    "Tasks/All Tasks.md",
+    "Buy Lists/All Buy Lists.md",
+    "Summaries/Docker/Introduction/What are Containers.md",
     "Summaries/Docker/Introduction/Docker Image.md",
     "Summaries/Docker/Introduction/Container and VM.md",
     "Summaries/GIT/What is GIT.md",
@@ -168,14 +171,11 @@
     "Summaries/OOP",
     "Untitled",
     "Summaries/NextJS",
-    "Tasks/All Tasks.md",
-    "Buy Lists/All Buy Lists.md",
     "Tasks/Routine.md",
     "Buy Lists",
     "Tasks/Personal.md",
     "Tasks/Intern.md",
     "Tasks/Development.md",
-    "Summaries/Docker/Introduction/What are Containers.md",
     "Image/Pasted image 20240229100429.png",
     "Image/Pasted image 20240229095930.png",
     "Image/Pasted image 20240229095549.png",

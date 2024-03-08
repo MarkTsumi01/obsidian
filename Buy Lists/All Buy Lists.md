@@ -49,7 +49,7 @@
 | Shirt | GQ     | 1000  |
 | Short | GQ     |       |
 | Pant  | GQ     |       |
-|       |        |       |
+| Shoes |        |       |
 
 
 ### Accessories
@@ -78,7 +78,7 @@
 | Famicom        |           |           |
 | Game cube      |           |           |
 | N64            |           |           |
-|                |           |           |
+| PS5            |           |           |
 |                |           |           |
 |                |           |           |
 |                |           |           |
@@ -86,12 +86,13 @@
 
 ### Music
 
-| Instrument                             | Sound           |
-| -------------------------------------- | --------------- |
-| Clarimate + Barrel + Mouthpiece + Reed | DAC Amp         |
-| Saxophone                              | Audio interface |
-| Oboe                                   | Microphone      |
-| Piano                                  |                 |
+| Instrument                              | Sound           |
+| --------------------------------------- | --------------- |
+| Clarimate + Barrel + Mouthpiece + Reed  | DAC Amp         |
+| Saxophone                               | Audio interface |
+| Oboe                                    | Microphone      |
+| Piano                                   | MP3 Player      |
+| เครื่องเล่นแผ่นเสียง + แผ่นเสียงคลาสสิค |                 |
 
 ### Vehicle
 
@@ -115,3 +116,12 @@
 | เก้าอี้        |                 |
 | ชั้นวางของ     |                 |
 
+### Books
+
+
+| Fiction              | Manga           | Psychology    |     |
+| -------------------- | --------------- | ------------- | --- |
+| Dune                 | เกาะกระหายเลือด | Calil Gibran  |     |
+| 2001 A space odyssey | Blame           | Sigmund freud |     |
+| Origin               | Berserk         |               |     |
+|                      |                 |               |     |

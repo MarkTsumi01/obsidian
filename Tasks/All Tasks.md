@@ -4,7 +4,7 @@
 - [ ] Mikelobster ( Docker, Nextjs ,NextAuth)
 - [ ] Portfolio website.
 - [ ] Learn Chunk, Search, Sort .
-- [ ] Learn About Erp Software
+- [x] Learn About Erp Software ✅ 2024-03-08
 
 
 
@@ -21,6 +21,7 @@
 - [ ] จัดฟัน
 - [ ] ตรวจไทรอยด์
 - [ ] เคลียเรื่องทหาร
+- [ ] ทำบัตรเครดิต
 - [ ] สมัครงาน proAlpha (ยื่น resume)
 - [ ] สมัครบัตรเครดิต
 - [x] ทำ Super resume ✅ 2024-03-06
