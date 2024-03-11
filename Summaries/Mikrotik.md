@@ -16,5 +16,22 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework developed
 7. **Application Layer:** Directly interacts with end-user applications like web browsers or email clients, providing network services and identifying communication partners.
 
 
+### What is MikroTik?
+
+
+- Mikrotik is from micro and tik แปลว่า ระบบเครือข่ายขนาดเล็ก
+- There have software and hardware 
+- Hardware has a differentsize small, middle, large.
+- We can install only software on Virtual machine or Others hardware by bought license.
+- A lot of company and customer using it like ISP, Personal.
+- Used for improve network performance
+- Established 1996.
+- 1997 : RounterOS software for x86 (PC)
+- 2002 : First RounterBOARD device
+- 2006 : First MikroTik User Meeting (MUM)
+- 2017 : Biggest MUM: Indonesia, 3000+
+
+
+
 
 
