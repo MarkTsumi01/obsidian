@@ -41,7 +41,6 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework developed
 - Policy
 - เพื่อใช้ในการจัดสรรการใช้ Internet
 
-
 ### Process
 
 - Wan
@@ -56,6 +55,21 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework developed
 - DHCP Client
 - Wireless Client
 - 3G/4G Module/USB
+
+
+Account 
+	username : admin
+	 password : ""
+
+		neighbor => refresh => connect => system => identity
+		 PPP => interface => add => pppoe client => general => interface (ether1) => dial Out => user and password is Our number (3) => ppoe scan (ether1)
+
+			R = Running
+			IP => Address => Add => interface ether2 => address (192.168.3.1/24) => apply => 
+			 IP => DHCP Server => DHCP Setup
+			 IP => Firewall => NAT => Add => Chain(srcnat) => Out interface (pppoe out1) => action (masqu) => apply => ping 8.8.8.8
+			 IP => DNS => Servers (8.8.8.8, 1.1.1.1) => Allow remote click => Apply  => Ok
+			  
 
 
 
