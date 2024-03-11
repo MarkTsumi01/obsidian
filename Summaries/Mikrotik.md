@@ -66,7 +66,7 @@ Account
 
 			R = Running
 			IP => Address => Add => interface ether2 => address (192.168.3.1/24) => apply => 
-			 IP => DHCP Server => DHCP Setup
+			 IP => DHCP Server => DHCP Setup ether(2) 192.168.3.1
 			 IP => Firewall => NAT => Add => Chain(srcnat) => Out interface (pppoe out1) => action (masqu) => apply => ping 8.8.8.8
 			 IP => DNS => Servers (8.8.8.8, 1.1.1.1) => Allow remote click => Apply  => Ok
 			  

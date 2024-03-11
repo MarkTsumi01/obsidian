@@ -27,6 +27,11 @@
 
 - [ ] Coursera (cyber-security)
 - [ ] Hackerank
+	- [ ] React (front-end)
+	- [ ] Software engineer
+	- [ ] JavaScript
+	- [ ] SQL
+		
 - [ ] Hackthebox
 
     
