@@ -25,7 +25,7 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework developed
 - We can install only software on Virtual machine or Others hardware by bought license.
 - A lot of company and customer using it like ISP, Personal.
 - Used for improve network performance
-- Established 1996.
+- Established 1996 in Latvia.
 - 1997 : RounterOS software for x86 (PC)
 - 2002 : First RounterBOARD device
 - 2006 : First MikroTik User Meeting (MUM)
