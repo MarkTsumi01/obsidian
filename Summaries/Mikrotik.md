@@ -32,6 +32,32 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework developed
 - 2017 : Biggest MUM: Indonesia, 3000+
 
 
+### Basic conneting Internet
+
+
+##### Why using router
+
+- ประหยัดค่าใช้จ่าย
+- Policy
+- เพื่อใช้ในการจัดสรรการใช้ Internet
+
+
+### Process
+
+- Wan
+- Lan
+- NAT
+- DNS
+
+##### Wan has a lot of pattern
+
+- PPoE Client
+- Static IP
+- DHCP Client
+- Wireless Client
+- 3G/4G Module/USB
+
+
 
 
 
