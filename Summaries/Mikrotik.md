@@ -102,3 +102,8 @@ fig ip => DHCP Server => leases => right click ip => make static
 ### Set ARP
 
 - DHCP SERVER => Add arp => Interface => double clicked (ether2) => set arp (reply only )
+
+
+### DNS Working on 
+
+- UDP/TCP Port 53
