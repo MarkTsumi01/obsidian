@@ -74,4 +74,27 @@ Account
 
 
 
+Mikrotik has 2 way to backup
 
+	1.Files => Delete All => Backup 
+
+	 2.New terminal => export file="name"
+
+
+Module 2
+
+IP => DHCP Client => ether1
+DHCP ถูกสร้าง 3 ขั้นตอน 1.DHCP 2.NETWORK 3.IP AND POOL
+
+
+fig ip => DHCP Server => leases => right click ip => make static
+
+![[Pasted image 20240312112047.png]]
+
+
+### What is ARP?
+
+- Address Resolution Protocol
+- Working in Layer2(MAC) and Layer3(IP)
+- matching IP/MAC address  and save to table
+- Find IP from MAC and read from table
