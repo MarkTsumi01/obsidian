@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Mikrotik.md",
+                "file": "Tasks/All Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Mikrotik.md",
+                "file": "Tasks/All Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Mikrotik.md",
+                "file": "Tasks/All Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Mikrotik.md"
+                "file": "Tasks/All Tasks.md"
               }
             }
           },
@@ -154,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b189800da96d9d48",
+  "active": "0f1619ca61354add",
   "lastOpenFiles": [
-    "Buy Lists/All Buy Lists.md",
-    "Summaries/Mikrotik.md",
-    "Image/Pasted image 20240312112047.png",
+    "Tasks/Routine.md",
     "Tasks/All Tasks.md",
+    "Summaries/Mikrotik.md",
+    "Buy Lists/All Buy Lists.md",
+    "Image/Pasted image 20240312112047.png",
     "Summaries/Authentication.md",
     "Untitled.md",
-    "Tasks/Routine.md",
     "Summaries/ERP_SOFTWARE.md",
     "Summaries/Docker/Introduction/Container and VM.md",
     "Summaries/Docker/Introduction/What are Containers.md",
