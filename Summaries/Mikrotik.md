@@ -107,3 +107,8 @@ fig ip => DHCP Server => leases => right click ip => make static
 ### DNS Working on 
 
 - UDP/TCP Port 53
+
+
+### Set firewall
+
+firewall => add => dstnet => action (redirect) => udp port 53 => tcp prot 53
