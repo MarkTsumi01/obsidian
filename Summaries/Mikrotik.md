@@ -98,3 +98,7 @@ fig ip => DHCP Server => leases => right click ip => make static
 - Working in Layer2(MAC) and Layer3(IP)
 - matching IP/MAC address  and save to table
 - Find IP from MAC and read from table
+
+### Set ARP
+
+- DHCP SERVER => Add arp => Interface => double clicked (ether2) => set arp (reply only )
