@@ -15,6 +15,7 @@
 - [ ] Learn Driving
 - [ ] Resume
 - [ ] Apply job ( ncsa, proalpha)
+- [ ] สมัครบัตรเครดิต
 
 
 ### Portfolio website
