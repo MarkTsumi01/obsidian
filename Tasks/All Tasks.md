@@ -14,7 +14,7 @@
 - [ ] Dentist
 - [ ] Learn Driving
 - [ ] Resume
-- [ ] Apply job ( ncsa, proalpha)
+- [ ] Apply job (  proalpha)
 - [ ] สมัครบัตรเครดิต
 
 
