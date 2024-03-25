@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "174c9dfa307ce809",
+            "id": "1a55d489227ecb5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,11 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "174c9dfa307ce809",
+  "active": "1a55d489227ecb5e",
   "lastOpenFiles": [
-    "Summaries/Trading/Moving Average.md",
-    "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "Tasks/All Tasks.md",
+    "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
+    "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
+    "Summaries/Trading/Moving Average.md",
     "Summaries/Trading",
     "Summaries/Mikrotik.md",
     "Tasks/Routine.md",
@@ -209,7 +210,6 @@
     "Summaries/Docker/Introduction/What is Docker.md",
     "Summaries/Docker/Introduction",
     "Tasks/Untitled",
-    "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "2024-02-29.md"
   ]
 }
