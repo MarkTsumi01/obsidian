@@ -21,3 +21,25 @@ TCP/IP model:
 
 - Both the TCP/IP and OSI models are conceptual frameworks used by network professionals to visualize and discuss network operations and potential issues/threats.
 
+
+
+The OSI model:
+
+The OSI (Open Systems Interconnection) model is a standardized concept that describes the 7 layers computers use to communicate and send data over a network:
+
+1. Physical layer - Deals with the physical hardware components like cables, hubs, modems that are used to transmit data.
+
+2. Data link layer - Handles sending and receiving data packets within a single network using protocols like NCP, HDLC, SDLC. 
+
+3. Network layer - Responsible for routing data packets between networks using IP addresses and delivering frames to the intended destination.
+
+4. Transport layer - Manages end-to-end communication, segmentation of data, and flow control using protocols like TCP and UDP.
+
+5. Session layer - Establishes, maintains, synchronizes and terminates sessions/connections between applications. 
+
+6. Presentation layer - Translates data between different formats and handles encryption/decryption.
+
+7. Application layer - The layer that interfaces directly with network services and applications used by the end user like HTTP, SMTP, DNS.
+
+The 7-layer OSI model provides a more detailed breakdown compared to the simpler 4-layer TCP/IP model. Both models help network professionals visualize and discuss network operations, processes and troubleshoot issues across the different layers.
+
