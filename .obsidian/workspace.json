@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "174c9dfa307ce809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/All Tasks.md",
+                "file": "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/All Tasks.md",
+                "file": "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/All Tasks.md"
+                "file": "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md"
               }
             }
           },
@@ -154,10 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b189800da96d9d48",
+  "active": "174c9dfa307ce809",
   "lastOpenFiles": [
-    "Summaries/Mikrotik.md",
+    "Summaries/Trading/Moving Average.md",
+    "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "Tasks/All Tasks.md",
+    "Summaries/Trading",
+    "Summaries/Mikrotik.md",
     "Tasks/Routine.md",
     "Buy Lists/All Buy Lists.md",
     "Image/Pasted image 20240312112047.png",
@@ -193,7 +209,6 @@
     "Summaries/Docker/Introduction/What is Docker.md",
     "Summaries/Docker/Introduction",
     "Tasks/Untitled",
-    "New Text Document.txt",
     "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "2024-02-29.md"
   ]
