@@ -43,3 +43,24 @@ The OSI (Open Systems Interconnection) model is a standardized concept that desc
 
 The 7-layer OSI model provides a more detailed breakdown compared to the simpler 4-layer TCP/IP model. Both models help network professionals visualize and discuss network operations, processes and troubleshoot issues across the different layers.
 
+
+
+## Network layer communication:
+
+The network layer (layer 3 of the OSI model) is responsible for addressing, routing and delivering data packets across networks from the source to the destination device. Its main functions include:
+
+- Organizing packet addressing using IP addresses contained in the packet header
+- Routing packets across networks by forwarding them from one router to the next based on the destination IP address
+- Fragmenting larger packets into smaller pieces for transmission
+
+The packet header in IPv4 contains fields like source/destination IP addresses, packet length, time-to-live counter, checksum for error detection and options like prioritization. 
+
+IPv6 was developed to replace IPv4 to overcome IPv4 address exhaustion by using 128-bit addresses instead of 32-bits, allowing many more possible addresses.
+
+Key differences between IPv4 and IPv6:
+- IPv6 addresses are 128-bits long represented in hexadecimal format
+- IPv6 packet header is simpler, removing fields like fragmentation flags
+- IPv6 adds better security by eliminating private address collisions
+
+Understanding the fields in IP packet headers provides important security information like source, destination, protocol being used which allows analysts to assess potential threats.
+
