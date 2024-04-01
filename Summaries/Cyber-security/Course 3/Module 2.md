@@ -96,8 +96,6 @@ Simple Mail Transfer Protocol (SMTP) is used to transmit and route email from th
 
 
 
-
-
 ## Terms and definitions from Course 3, Module 2
 
 **Address Resolution Protocol (ARP):** A network protocol used to determine the MAC address of the next router or device on the path
