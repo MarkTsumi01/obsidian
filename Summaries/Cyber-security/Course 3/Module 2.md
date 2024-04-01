@@ -26,4 +26,32 @@ Common Network Protocols
 
 	Security Protocols
 			HTTPS (Hypertext Transfer Protocol Secure)
+				is a network protocol that provides a secure method of communication between clients and website servers. HTTPS is a secure version of HTTP that uses secure sockets layer/transport layer security (SSL/TLS) encryption on all transmissions so that malicious actors cannot read the information contained. HTTPS uses port 443. In the TCP/IP model, HTTPS occurs at the application layer.
 			SFTP (Secure File Transfer Protocol)
+
+
+Private IP Address and Public IP Address
+
+
+| Private IP Address                                                                                                                             | Public IP Address                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Assign by router                                                                                                                               | Assign by ISP and IANA                                                                                                                                                                                                   |
+| Unique only within private network                                                                                                             | Unique address is global internet                                                                                                                                                                                        |
+| No cost to use                                                                                                                                 | Costs to lease a public IP address                                                                                                                                                                                       |
+| Address ranges:<br><br>     10.0.0.0-10.255.255.255<br><br>     172.16.0.0-172.31.255.255  <br><br>     192.168.0.0-192.168.255.255   <br><br> | Assignable address ranges:<br><br>    1.0.0.0-9.255.255.255<br><br>    11.0.0.0-126.255.255.255<br><br>    128.0.0.0-172.15.255.255<br><br>    172.32.0.0-192.167.255.255<br><br>    192.169.0.0-233.255.255.255<br><br> |
+|                                                                                                                                                |                                                                                                                                                                                                                          |
+|                                                                                                                                                |                                                                                                                                                                                                                          |
+
+
+## Dynamic Host Configuration Protocol
+
+Dynamic Host Configuration Protocol (DHCP) is in the management family of network protocols. DHCP is an application layer protocol used on a network to configure devices. It works with the router to assign a unique IP address to each device and provide the addresses of the appropriate DNS server and default gateway for each device. DHCP servers operate on UDP port 67 while DHCP clients operate on UDP port 68.
+
+
+## Address Resolution Protocol
+
+By now, you are familiar with IP and MAC addresses. You’ve learned that each device on a network has a public IP address, a private IP address, and a MAC address that identify it on the network. A device’s IP address may change over time, but its MAC address is permanent because it is unique to a device's network interface card. The MAC address is used to communicate with devices within the same network, but sometimes, the MAC address is unknown. This is why the Address Resolution Protocol (ARP) is needed. ARP is mainly a network access layer protocol in the TCP/IP model used to translate the IP addresses that are found in data packets into the MAC address of the hardware device. 
+
+Each device on the network performs ARP and keeps track of matching IP and MAC addresses in an ARP cache. ARP does not have a specific port number since it is a layer 2 protocol and port numbers are associated with the layer 7 application layer.
+
+
