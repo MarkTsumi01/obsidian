@@ -55,4 +55,32 @@ tcpdump provides a brief packet analysis and converts key information about netw
 
 tcpdump prints the output of the command as the sniffed packets in the command line, and optionally to a log file, after a command is executed. The output of a packet capture contains many pieces of important information about the network traffic.
 
-![[Pasted image 20240416131357.png]]
+![[Pasted image 20240416131357.png]]Some information you receive from a packet capture includes: 
+
+- **Timestamp**: The output begins with the timestamp, formatted as hours, minutes, seconds, and fractions of a second.  
+    
+- **Source IP**: The packet’s origin is provided by its source IP address.
+    
+- **Source port**: This port number is where the packet originated.
+    
+- **Destination IP**: The destination IP address is where the packet is being transmitted to.
+    
+- **Destination port**: This port number is where the packet is being transmitted to.
+    
+
+**Note:** By default, tcpdump will attempt to resolve host addresses to hostnames. It'll also replace port numbers with commonly associated services that use these ports.
+
+## Common uses
+
+tcpdump and other network protocol analyzers are commonly used to capture and view network communications and to collect statistics about the network, such as troubleshooting network performance issues. They can also be used to:
+
+- Establish a baseline for network traffic patterns and network utilization metrics.
+    
+- Detect and identify malicious traffic
+    
+- Create customized alerts to send the right notifications when network issues or security threats arise.
+    
+- Locate unauthorized instant messaging (IM), traffic, or wireless access points.
+    
+
+However, attackers can also use network protocol analyzers maliciously to gain information about a specific network. For example, attackers can capture data packets that contain sensitive information, such as account usernames and passwords. As a cybersecurity analyst, It’s important to understand the purpose and uses of network protocol analyzers.
