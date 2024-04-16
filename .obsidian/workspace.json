@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Cyber-security/Course 3/Module 2.md",
+                "file": "Summaries/Cyber-security/Course 3/Module 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Cyber-security/Course 3/Module 2.md",
+                "file": "Summaries/Cyber-security/Course 3/Module 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Cyber-security/Course 3/Module 2.md",
+                "file": "Summaries/Cyber-security/Course 3/Module 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Cyber-security/Course 3/Module 2.md"
+                "file": "Summaries/Cyber-security/Course 3/Module 3.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "1a55d489227ecb5e",
   "lastOpenFiles": [
-    "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "Summaries/Cyber-security/Course 3/Module 2.md",
+    "Summaries/Cyber-security/Course 3/Module 3.md",
+    "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "Summaries/Trading/Moving Average.md",
     "Tasks/All Tasks.md",
