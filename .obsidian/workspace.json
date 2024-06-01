@@ -11,8 +11,12 @@
             "id": "08275813ad6cadaa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Summaries/IT/Mikrotik.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Summaries/IT/Mikrotik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Summaries/IT/Mikrotik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Summaries/IT/Mikrotik.md"
+              }
             }
           }
         ]
@@ -140,35 +148,35 @@
   },
   "active": "25f011bd41f45184",
   "lastOpenFiles": [
+    "Summaries/IT/ERP_SOFTWARE.md",
+    "Summaries/Authentication.md",
+    "Summaries/Financial",
+    "Summaries/IT",
     "Pasted image 20240416131357.png",
     "Tasks/All Tasks.md",
     "Tasks",
-    "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
-    "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
-    "Summaries/Docker/Introduction/Why using Docker.md",
-    "Summaries/Docker/Introduction/What is Docker.md",
-    "Summaries/Docker/Introduction/What are Containers.md",
-    "Summaries/Docker/Introduction/Container and VM.md",
-    "Summaries/Docker/Introduction/Docker Image.md",
-    "Summaries/Cyber-security/Course 3/Module 3.md",
-    "Summaries/Cyber-security/Course 3/Module 2.md",
-    "Summaries/Cyber-security/Course 3/Module 1",
-    "Summaries/Trading/Moving Average.md",
-    "Summaries/ORM/WhatORM.md",
-    "Summaries/OOP/Principle.md",
-    "Summaries/NextJS/Introducion 101.md",
-    "Summaries/Docker/Introduction",
-    "Summaries/GIT/What is GIT.md",
-    "Summaries/Cyber-security/Course 3",
-    "Summaries/Trading",
-    "Summaries/ORM",
-    "Summaries/OOP",
-    "Summaries/NextJS",
-    "Summaries/Docker",
-    "Summaries/ERP_SOFTWARE.md",
-    "Summaries/Mikrotik.md",
-    "Summaries/GIT",
-    "Summaries/Authentication.md",
+    "Summaries/IT/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
+    "Summaries/IT/Cyber-security/Course 3/Module 1/Cloud Network.md",
+    "Summaries/IT/Docker/Introduction/Why using Docker.md",
+    "Summaries/IT/Docker/Introduction/What is Docker.md",
+    "Summaries/IT/Docker/Introduction/What are Containers.md",
+    "Summaries/IT/Docker/Introduction/Container and VM.md",
+    "Summaries/IT/Docker/Introduction/Docker Image.md",
+    "Summaries/IT/Cyber-security/Course 3/Module 3.md",
+    "Summaries/IT/Cyber-security/Course 3/Module 2.md",
+    "Summaries/IT/Cyber-security/Course 3/Module 1",
+    "Summaries/Financial/Trading/Moving Average.md",
+    "Summaries/IT/ORM/WhatORM.md",
+    "Summaries/IT/OOP/Principle.md",
+    "Summaries/IT/NextJS/Introducion 101.md",
+    "Summaries/IT/Docker/Introduction",
+    "Summaries/IT/GIT/What is GIT.md",
+    "Summaries/IT/Cyber-security/Course 3",
+    "Summaries/Financial/Trading",
+    "Summaries/IT/ORM",
+    "Summaries/IT/OOP",
+    "Summaries/IT/NextJS",
+    "Summaries/IT/Mikrotik.md",
     "Image/Pasted image 20240312112047.png",
     "Image/Pasted image 20240229100429.png",
     "Image/Pasted image 20240229095930.png",
@@ -185,7 +193,6 @@
     "obsidian/Summaries/Docker/Introduction/What are Containers.md",
     "obsidian/Summaries/Docker/Introduction/Container and VM.md",
     "obsidian/Image/Pasted image 20240312112047.png",
-    "obsidian/Image/Pasted image 20240229100429.png",
     "Untitled.canvas"
   ]
 }
