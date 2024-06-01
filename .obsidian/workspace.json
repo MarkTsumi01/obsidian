@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "ce9c77cb1982a94c",
+    "id": "b7f2a8eb73c564f4",
     "type": "split",
     "children": [
       {
-        "id": "c67b35f5a504f3bc",
+        "id": "a09aa8248a15451c",
         "type": "tabs",
         "children": [
           {
-            "id": "b189800da96d9d48",
+            "id": "08275813ad6cadaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/All Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a55d489227ecb5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summaries/Cyber-security/Course 3/Module 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fc4de0648d80dee7",
+    "id": "a4492f1f27c878d4",
     "type": "split",
     "children": [
       {
-        "id": "1aee234eb5890704",
+        "id": "1cdf165f84bedc9c",
         "type": "tabs",
         "children": [
           {
-            "id": "0f1619ca61354add",
+            "id": "25f011bd41f45184",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "5247bb27e6b62726",
+            "id": "9645b523ba186264",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "228a85df2abebdf3",
+            "id": "7b5222795e9285ca",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "5b7948e04f93879f",
+    "id": "65348b27de7eaabe",
     "type": "split",
     "children": [
       {
-        "id": "842594a93254cc1c",
+        "id": "ba4298804e5876d3",
         "type": "tabs",
         "children": [
           {
-            "id": "7f4a75dccbddcd66",
+            "id": "0667785a80815356",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Cyber-security/Course 3/Module 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "61e47a594f6c4d0a",
+            "id": "9b44e52ac6119570",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Cyber-security/Course 3/Module 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "263e6a39ef2d9193",
+            "id": "aac20e24021cef71",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,20 +114,10 @@
             }
           },
           {
-            "id": "ee93e8d8a8f744ee",
+            "id": "3925c124a2bb2ff5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Summaries/Cyber-security/Course 3/Module 3.md"
-              }
-            }
-          },
-          {
-            "id": "74a070b5446b4cda",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -167,40 +138,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a55d489227ecb5e",
+  "active": "25f011bd41f45184",
   "lastOpenFiles": [
     "Pasted image 20240416131357.png",
-    "Summaries/Cyber-security/Course 3/Module 2.md",
-    "Summaries/Cyber-security/Course 3/Module 3.md",
-    "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
-    "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
-    "Summaries/Trading/Moving Average.md",
     "Tasks/All Tasks.md",
-    "Summaries/Trading",
-    "Summaries/Mikrotik.md",
-    "Tasks/Routine.md",
-    "Buy Lists/All Buy Lists.md",
-    "Image/Pasted image 20240312112047.png",
-    "Summaries/Authentication.md",
-    "Untitled.md",
-    "Summaries/ERP_SOFTWARE.md",
-    "Summaries/Docker/Introduction/Container and VM.md",
+    "Tasks",
+    "Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
+    "Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
+    "Summaries/Docker/Introduction/Why using Docker.md",
+    "Summaries/Docker/Introduction/What is Docker.md",
     "Summaries/Docker/Introduction/What are Containers.md",
+    "Summaries/Docker/Introduction/Container and VM.md",
     "Summaries/Docker/Introduction/Docker Image.md",
-    "Summaries/GIT/What is GIT.md",
-    "Summaries/NextJS/Introducion 101.md",
-    "Summaries/ORM/What is ORM?.md",
-    "Summaries/ERP SOFTWARE.md",
-    "Summaries/ORM",
+    "Summaries/Cyber-security/Course 3/Module 3.md",
+    "Summaries/Cyber-security/Course 3/Module 2.md",
+    "Summaries/Cyber-security/Course 3/Module 1",
+    "Summaries/Trading/Moving Average.md",
+    "Summaries/ORM/WhatORM.md",
     "Summaries/OOP/Principle.md",
-    "Summaries/GIT",
+    "Summaries/NextJS/Introducion 101.md",
+    "Summaries/Docker/Introduction",
+    "Summaries/GIT/What is GIT.md",
+    "Summaries/Cyber-security/Course 3",
+    "Summaries/Trading",
+    "Summaries/ORM",
     "Summaries/OOP",
-    "Untitled",
     "Summaries/NextJS",
-    "Buy Lists",
-    "Tasks/Personal.md",
-    "Tasks/Intern.md",
-    "Tasks/Development.md",
+    "Summaries/Docker",
+    "Summaries/ERP_SOFTWARE.md",
+    "Summaries/Mikrotik.md",
+    "Summaries/GIT",
+    "Summaries/Authentication.md",
+    "Image/Pasted image 20240312112047.png",
     "Image/Pasted image 20240229100429.png",
     "Image/Pasted image 20240229095930.png",
     "Image/Pasted image 20240229095549.png",
@@ -208,10 +177,15 @@
     "Image/Pasted image 20240229094755.png",
     "Image/Pasted image 20240229094618.png",
     "Image/Pasted image 20240229093954.png",
-    "Summaries/Docker/Introduction/Why using Docker.md",
-    "Image",
-    "Summaries/Docker/Introduction/What is Docker.md",
-    "Summaries/Docker/Introduction",
-    "Tasks/Untitled"
+    "obsidian/Tasks/All Tasks.md",
+    "obsidian/Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
+    "obsidian/Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
+    "obsidian/Summaries/Docker/Introduction/Why using Docker.md",
+    "obsidian/Summaries/Docker/Introduction/What is Docker.md",
+    "obsidian/Summaries/Docker/Introduction/What are Containers.md",
+    "obsidian/Summaries/Docker/Introduction/Container and VM.md",
+    "obsidian/Image/Pasted image 20240312112047.png",
+    "obsidian/Image/Pasted image 20240229100429.png",
+    "Untitled.canvas"
   ]
 }
