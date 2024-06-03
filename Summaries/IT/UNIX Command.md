@@ -13,4 +13,8 @@ Unix Command
 	grep : ใช้สำหรับหาไฟล์หรือสิ่งที่ต้องการจะหา | flah ( -E (regex), -i (ingore), -c ) | grep "Hello world" cat.txt
 		grep -E "(Hello World!|Hello Dan) cat.txt"
 
-	head : ใช้สำหรับโชว์ระบุจำนวนได้ | flag (-n 1) | head -n 1 cat.txt
+	head : ใช้สำหรับโชว์จากด้านบนระบุจำนวนได้ | flag (-n 1) | head -n 1 cat.txt
+
+	tail : ใช้สำหรับโชว์จากด้านล่างระบุจำนวนได้ | flag (-n 1) | tail -n 1 cat.txt
+
+	
