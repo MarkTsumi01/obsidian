@@ -10,7 +10,7 @@ Unix Command
 
 	cat : ใช้สำหรับโชว์หรือดูไฟล์ | flag (-n) | cat text.txt 
 
-	grep : ใช้สำหรับหาไฟล์หรือสิ่งที่ต้องการจะหา | flah (-E) | grep "Hello world" cat.txt
+	grep : ใช้สำหรับหาไฟล์หรือสิ่งที่ต้องการจะหา | flah ( -E (regex), -i (ingore), -c ) | grep "Hello world" cat.txt
 		grep -E "(Hello World!|Hello Dan) cat.txt"
 
 	
