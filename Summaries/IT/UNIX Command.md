@@ -8,4 +8,9 @@ Unix Command
 
 	โครงสร้าง <command> <flag> <input> <output>
 
-	cat : ใช้สำหรับโชว์หรือดูไฟล์ | cat text.txt | flag (-n)
+	cat : ใช้สำหรับโชว์หรือดูไฟล์ | flag (-n) | cat text.txt 
+
+	grep : ใช้สำหรับหาไฟล์หรือสิ่งที่ต้องการจะหา | flah (-E) | grep "Hello world" cat.txt
+		grep -E "(Hello World!|Hello Dan) cat.txt"
+
+	
