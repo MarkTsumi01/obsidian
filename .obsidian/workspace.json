@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a09aa8248a15451c",
+        "id": "78db2683e131c0e9",
         "type": "tabs",
         "children": [
           {
-            "id": "08275813ad6cadaa",
+            "id": "78d04bce18b153a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/IT/UNIX Command.md",
+                "file": "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/IT/UNIX Command.md",
+                "file": "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/IT/UNIX Command.md",
+                "file": "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/IT/UNIX Command.md"
+                "file": "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 8.md"
               }
             }
           },
@@ -154,10 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08275813ad6cadaa",
+  "active": "78d04bce18b153a3",
   "lastOpenFiles": [
-    "Summaries/IT/Mikrotik.md",
     "Summaries/IT/UNIX Command.md",
+    "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 8.md",
+    "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET",
+    "Untitled",
+    "git pus.md",
+    "Summaries/IT/Mikrotik.md",
     "Summaries/IT/ERP_SOFTWARE.md",
     "Summaries/Authentication.md",
     "Summaries/Financial",
@@ -184,8 +188,6 @@
     "Summaries/IT/Cyber-security/Course 3",
     "Summaries/Financial/Trading",
     "Summaries/IT/ORM",
-    "Summaries/IT/OOP",
-    "Summaries/IT/NextJS",
     "Image/Pasted image 20240312112047.png",
     "Image/Pasted image 20240229100429.png",
     "Image/Pasted image 20240229095930.png",
@@ -199,8 +201,6 @@
     "obsidian/Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "obsidian/Summaries/Docker/Introduction/Why using Docker.md",
     "obsidian/Summaries/Docker/Introduction/What is Docker.md",
-    "obsidian/Summaries/Docker/Introduction/What are Containers.md",
-    "obsidian/Summaries/Docker/Introduction/Container and VM.md",
     "obsidian/Image/Pasted image 20240312112047.png",
     "Untitled.canvas"
   ]
