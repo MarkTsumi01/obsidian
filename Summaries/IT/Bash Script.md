@@ -21,7 +21,7 @@ Bash Script
 
 	echo : echo <variable> | echo <Text> : echo number | echo "Hello World"
 
-	curl : 
+	curl : ใช้สำหรับแสดงค่าของสิ่งนั้นๆ เช่น curl "google.com"
 
 	wget : ใช้สำหรับดาวน์โหลด 
 	
