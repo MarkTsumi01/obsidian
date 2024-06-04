@@ -11,3 +11,11 @@ Here are some brief summaries about bash scripts:
 8. **Error Handling in Bash Scripts**: Bash scripts can handle errors using `try-catch` blocks and error messages.
 9. **Debugging Bash Scripts**: Bash scripts can be debugged using tools like `set -x` and `set -v`, which provide detailed information about the script's execution.
 10. **Best Practices for Bash Scripts**: Bash scripts should follow best practices such as using descriptive variable names, commenting code, and testing the script thoroughly before deployment.
+
+
+Bash Script
+
+	find : find <dir> -name <file> : find . -name example2.txt
+	
+
+
