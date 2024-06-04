@@ -18,6 +18,12 @@ Bash Script
 	find : find <dir> -name <file> : find . -name example2.txt
 
 	awk : awk -F'<delimeter>' <command> <file> : awk -F'|' '{print $1,$2}' example.txt
+
+	echo : echo <variable> | echo <Text> : echo number | echo "Hello World"
+
+	curl : 
+
+	wget : ใช้สำหรับดาวน์โหลด 
 	
 
 
