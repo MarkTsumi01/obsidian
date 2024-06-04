@@ -16,6 +16,8 @@ Here are some brief summaries about bash scripts:
 Bash Script
 
 	find : find <dir> -name <file> : find . -name example2.txt
+
+	awk : awk -F'<delimeter>' <command> <file> : awk -F'|' '{print $1,$2}' example.txt
 	
 
 
