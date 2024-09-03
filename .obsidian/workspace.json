@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 9.md",
+                "file": "Summaries/IT/Cyber-security/Course 3/Module 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 9.md",
+                "file": "Summaries/IT/Cyber-security/Course 3/Module 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 9.md",
+                "file": "Summaries/IT/Cyber-security/Course 3/Module 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 9.md"
+                "file": "Summaries/IT/Cyber-security/Course 3/Module 3.md"
               }
             }
           },
@@ -154,14 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78d04bce18b153a3",
+  "active": "25f011bd41f45184",
   "lastOpenFiles": [
+    "Summaries/Financial/Investment",
+    "Untitled",
+    "Summaries/IT/Cyber-security/Course 3/Module 2.md",
+    "Summaries/IT/Cyber-security/Course 3/Module 1/Cloud Network.md",
+    "Summaries/IT/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 8.md",
     "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 9.md",
     "Summaries/IT/Bash Script.md",
     "Summaries/IT/UNIX Command.md",
     "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET",
-    "Untitled",
     "git pus.md",
     "Summaries/IT/Mikrotik.md",
     "Summaries/IT/ERP_SOFTWARE.md",
@@ -171,15 +175,12 @@
     "Pasted image 20240416131357.png",
     "Tasks/All Tasks.md",
     "Tasks",
-    "Summaries/IT/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
-    "Summaries/IT/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "Summaries/IT/Docker/Introduction/Why using Docker.md",
     "Summaries/IT/Docker/Introduction/What is Docker.md",
     "Summaries/IT/Docker/Introduction/What are Containers.md",
     "Summaries/IT/Docker/Introduction/Container and VM.md",
     "Summaries/IT/Docker/Introduction/Docker Image.md",
     "Summaries/IT/Cyber-security/Course 3/Module 3.md",
-    "Summaries/IT/Cyber-security/Course 3/Module 2.md",
     "Summaries/IT/Cyber-security/Course 3/Module 1",
     "Summaries/Financial/Trading/Moving Average.md",
     "Summaries/IT/ORM/WhatORM.md",
@@ -200,7 +201,6 @@
     "Image/Pasted image 20240229093954.png",
     "obsidian/Tasks/All Tasks.md",
     "obsidian/Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
-    "obsidian/Summaries/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "obsidian/Image/Pasted image 20240312112047.png",
     "Untitled.canvas"
   ]
