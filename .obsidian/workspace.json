@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/IT/Cyber-security/Course 3/Module 3.md",
+                "file": "Summaries/Financial/Investment/Test Investment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/IT/Cyber-security/Course 3/Module 3.md",
+                "file": "Summaries/Financial/Investment/Test Investment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/IT/Cyber-security/Course 3/Module 3.md",
+                "file": "Summaries/Financial/Investment/Test Investment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/IT/Cyber-security/Course 3/Module 3.md"
+                "file": "Summaries/Financial/Investment/Test Investment.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25f011bd41f45184",
+  "active": "78d04bce18b153a3",
   "lastOpenFiles": [
+    "Summaries/IT/Cyber-security/Course 3/Module 3.md",
+    "Summaries/Financial/Investment/Test Investment.md",
     "Summaries/Financial/Investment",
     "Untitled",
     "Summaries/IT/Cyber-security/Course 3/Module 2.md",
@@ -180,7 +182,6 @@
     "Summaries/IT/Docker/Introduction/What are Containers.md",
     "Summaries/IT/Docker/Introduction/Container and VM.md",
     "Summaries/IT/Docker/Introduction/Docker Image.md",
-    "Summaries/IT/Cyber-security/Course 3/Module 3.md",
     "Summaries/IT/Cyber-security/Course 3/Module 1",
     "Summaries/Financial/Trading/Moving Average.md",
     "Summaries/IT/ORM/WhatORM.md",
@@ -190,7 +191,6 @@
     "Summaries/IT/GIT/What is GIT.md",
     "Summaries/IT/Cyber-security/Course 3",
     "Summaries/Financial/Trading",
-    "Summaries/IT/ORM",
     "Image/Pasted image 20240312112047.png",
     "Image/Pasted image 20240229100429.png",
     "Image/Pasted image 20240229095930.png",
