@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md",
+                "file": "Summaries/Financial/Investment/Test Investment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md",
+                "file": "Summaries/Financial/Investment/Test Investment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md",
+                "file": "Summaries/Financial/Investment/Test Investment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md"
+                "file": "Summaries/Financial/Investment/Test Investment.md"
               }
             }
           },
@@ -154,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73337082ea61392f",
+  "active": "25f011bd41f45184",
   "lastOpenFiles": [
+    "Summaries/Financial/Money Lecture/บทที่ 1.md",
     "Summaries/Financial/Investment/Test Investment.md",
-    "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md",
-    "Summaries/Financial/Investment/Money Lecture",
+    "Summaries/Financial/Money Lecture",
     "Summaries/IT/Cyber-security/Course 3/Module 3.md",
     "Summaries/Financial/Investment",
     "Untitled",
