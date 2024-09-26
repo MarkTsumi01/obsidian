@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78db2683e131c0e9",
+        "id": "ee4133f43e24f51d",
         "type": "tabs",
         "children": [
           {
-            "id": "78d04bce18b153a3",
+            "id": "73337082ea61392f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Financial/Investment/Test Investment.md",
+                "file": "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Financial/Investment/Test Investment.md",
+                "file": "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Financial/Investment/Test Investment.md",
+                "file": "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Financial/Investment/Test Investment.md"
+                "file": "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md"
               }
             }
           },
@@ -154,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78d04bce18b153a3",
+  "active": "73337082ea61392f",
   "lastOpenFiles": [
-    "Summaries/IT/Cyber-security/Course 3/Module 3.md",
     "Summaries/Financial/Investment/Test Investment.md",
+    "Summaries/Financial/Investment/Money Lecture/บทที่ 1.md",
+    "Summaries/Financial/Investment/Money Lecture",
+    "Summaries/IT/Cyber-security/Course 3/Module 3.md",
     "Summaries/Financial/Investment",
     "Untitled",
     "Summaries/IT/Cyber-security/Course 3/Module 2.md",
@@ -190,7 +192,6 @@
     "Summaries/IT/Docker/Introduction",
     "Summaries/IT/GIT/What is GIT.md",
     "Summaries/IT/Cyber-security/Course 3",
-    "Summaries/Financial/Trading",
     "Image/Pasted image 20240312112047.png",
     "Image/Pasted image 20240229100429.png",
     "Image/Pasted image 20240229095930.png",
@@ -200,7 +201,6 @@
     "Image/Pasted image 20240229094618.png",
     "Image/Pasted image 20240229093954.png",
     "obsidian/Tasks/All Tasks.md",
-    "obsidian/Summaries/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "obsidian/Image/Pasted image 20240312112047.png",
     "Untitled.canvas"
   ]
