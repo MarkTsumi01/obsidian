@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Financial/Money Lecture/บทที่ 1.md",
+                "file": "Summaries/Financial/Money Lecture/บทที่ 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Financial/Money Lecture/บทที่ 1.md",
+                "file": "Summaries/Financial/Money Lecture/บทที่ 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Financial/Money Lecture/บทที่ 1.md",
+                "file": "Summaries/Financial/Money Lecture/บทที่ 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Financial/Money Lecture/บทที่ 1.md"
+                "file": "Summaries/Financial/Money Lecture/บทที่ 2.md"
               }
             }
           },
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25f011bd41f45184",
+  "active": "73337082ea61392f",
   "lastOpenFiles": [
-    "Summaries/Financial/Money Lecture/Untitled.canvas",
     "Summaries/Financial/Money Lecture/บทที่ 1.md",
+    "Summaries/Financial/Money Lecture/บทที่ 2.md",
+    "Summaries/Financial/Money Lecture/Untitled.canvas",
     "Summaries/IT/GIT/What is GIT.md",
     "Summaries/IT/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "Summaries/Financial/Investment/Test Investment.md",
