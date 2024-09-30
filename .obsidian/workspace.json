@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Financial/Investment/Test Investment.md",
+                "file": "Summaries/Financial/Money Lecture/บทที่ 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Financial/Investment/Test Investment.md",
+                "file": "Summaries/Financial/Money Lecture/บทที่ 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Financial/Investment/Test Investment.md",
+                "file": "Summaries/Financial/Money Lecture/บทที่ 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Financial/Investment/Test Investment.md"
+                "file": "Summaries/Financial/Money Lecture/บทที่ 1.md"
               }
             }
           },
@@ -156,14 +156,16 @@
   },
   "active": "25f011bd41f45184",
   "lastOpenFiles": [
+    "Summaries/Financial/Money Lecture/Untitled.canvas",
     "Summaries/Financial/Money Lecture/บทที่ 1.md",
+    "Summaries/IT/GIT/What is GIT.md",
+    "Summaries/IT/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "Summaries/Financial/Investment/Test Investment.md",
     "Summaries/Financial/Money Lecture",
     "Summaries/IT/Cyber-security/Course 3/Module 3.md",
     "Summaries/Financial/Investment",
     "Untitled",
     "Summaries/IT/Cyber-security/Course 3/Module 2.md",
-    "Summaries/IT/Cyber-security/Course 3/Module 1/Cloud Network.md",
     "Summaries/IT/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 8.md",
     "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 9.md",
@@ -190,7 +192,6 @@
     "Summaries/IT/OOP/Principle.md",
     "Summaries/IT/NextJS/Introducion 101.md",
     "Summaries/IT/Docker/Introduction",
-    "Summaries/IT/GIT/What is GIT.md",
     "Summaries/IT/Cyber-security/Course 3",
     "Image/Pasted image 20240312112047.png",
     "Image/Pasted image 20240229100429.png",
@@ -200,7 +201,6 @@
     "Image/Pasted image 20240229094755.png",
     "Image/Pasted image 20240229094618.png",
     "Image/Pasted image 20240229093954.png",
-    "obsidian/Tasks/All Tasks.md",
     "obsidian/Image/Pasted image 20240312112047.png",
     "Untitled.canvas"
   ]
