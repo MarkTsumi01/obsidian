@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4133f43e24f51d",
+        "id": "71013da27825dfa5",
         "type": "tabs",
         "children": [
           {
-            "id": "73337082ea61392f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summaries/Financial/Money Lecture/บทที่ 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "บทที่ 2"
-            }
-          },
-          {
-            "id": "c07e325fa6b5e680",
+            "id": "645547f84be65e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "บทที่ 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Financial/Money Lecture/บทที่ 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for บทที่ 3"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Financial/Money Lecture/บทที่ 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from บทที่ 3"
+              "title": "Outgoing links"
             }
           },
           {
@@ -153,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Summaries/Financial/Money Lecture/บทที่ 3.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of บทที่ 3"
+              "title": "Outline"
             }
           },
           {
@@ -187,20 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c07e325fa6b5e680",
+  "active": "25f011bd41f45184",
   "lastOpenFiles": [
+    "Project",
     "Summaries/Financial/Money Lecture/บทที่ 2.md",
-    "Summaries/Financial/Money Lecture/บทที่ 3.md",
     "Summaries/Financial/Money Lecture/บทที่ 1.md",
+    "Summaries/Financial/Money Lecture/บทที่ 3.md",
+    "Summaries/Financial/Investment/Test Investment.md",
     "Summaries/Financial/Bitcoin Standard",
     "Summaries/Financial/Money Lecture/Untitled.canvas",
     "Summaries/IT/GIT/What is GIT.md",
     "Summaries/IT/Cyber-security/Course 3/Module 1/Cloud Network.md",
-    "Summaries/Financial/Investment/Test Investment.md",
     "Summaries/Financial/Money Lecture",
     "Summaries/IT/Cyber-security/Course 3/Module 3.md",
     "Summaries/Financial/Investment",
-    "Untitled",
     "Summaries/IT/Cyber-security/Course 3/Module 2.md",
     "Summaries/IT/Cyber-security/Course 3/Module 1/Connect and Protect Networks and Network Security.md",
     "Summaries/Financial/Trading/UNLOCK THE WORLD LARGEST FINANCIAL STREET/บทที่ 8.md",
@@ -225,7 +206,6 @@
     "Summaries/IT/Cyber-security/Course 3/Module 1",
     "Summaries/Financial/Trading/Moving Average.md",
     "Summaries/IT/ORM/WhatORM.md",
-    "Summaries/IT/OOP/Principle.md",
     "Summaries/IT/Docker/Introduction",
     "Image/Pasted image 20240312112047.png",
     "Image/Pasted image 20240229100429.png",
